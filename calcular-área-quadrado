@@ -1,6 +1,0 @@
-lado= float(input("Digite o lado do quadrado "))
-area = lado * lado
-dobro = area * 2
-
-print("A area eh ", area)
-print("O dobro desta área eh ", dobro)
